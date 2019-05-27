@@ -20,3 +20,5 @@ Imports:
     lme4,
     sjPlot
 VignetteBuilder: knitr
+Depends:
+    R (>= 3.1)
