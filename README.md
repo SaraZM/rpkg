@@ -9,6 +9,8 @@
 status](https://travis-ci.org/SaraZM/rpkg.svg?branch=master)](https://travis-ci.org/SaraZM/rpkg)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/SaraZM/rpkg?branch=master&svg=true)](https://ci.appveyor.com/project/SaraZM/rpkg)
+[![Codecov test
+coverage](https://codecov.io/gh/SaraZM/rpkg/branch/master/graph/badge.svg)](https://codecov.io/gh/SaraZM/rpkg?branch=master)
 <!-- badges: end -->
 
 The goal of rpkg is to do nothing.
