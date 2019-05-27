@@ -7,6 +7,8 @@
 
 [![Travis build
 status](https://travis-ci.org/SaraZM/rpkg.svg?branch=master)](https://travis-ci.org/SaraZM/rpkg)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/SaraZM/rpkg?branch=master&svg=true)](https://ci.appveyor.com/project/SaraZM/rpkg)
 <!-- badges: end -->
 
 The goal of rpkg is to do nothing.
@@ -33,6 +35,11 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(rpkg)
+#> Registered S3 methods overwritten by 'ggplot2':
+#>   method         from 
+#>   [.quosures     rlang
+#>   c.quosures     rlang
+#>   print.quosures rlang
 ## basic example code
 ```
 
